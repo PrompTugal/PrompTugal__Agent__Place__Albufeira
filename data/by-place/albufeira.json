@@ -354,10 +354,128 @@
   }
  ],
  "latest_news": {
-  "read_at": "2026-11-28T18:38Z",
+  "read_at": "2026-11-28T18:39:32Z",
   "by": "place.albufeira@PrompTugal.dinis (run by cl-6.places@PrompTugal.dinis)",
   "about": "Headlines read from the place's local outlets' public feeds: headline, link, source and time read only; nothing is copied from the articles. The sources' licences are not cleared by rights@, so these are leads with links, not for republication. Items with mentions_place true name the place in the headline.",
-  "main_headline": null,
-  "items": []
+  "main_headline": {
+   "title": "Marina de Albufeira vai receber novo empreendimento residencial com 24 moradias",
+   "url": "https://postal.pt/algarve/marina-de-albufeira-vai-receber-novo-empreendimento-residencial-com-24-moradias/",
+   "source": "Postal do Algarve",
+   "date": "2026-11-27",
+   "read_at": "2026-11-28T18:30:23Z",
+   "names_place": true
+  },
+  "items": [
+   {
+    "title": "Marina de Albufeira vai receber novo empreendimento residencial com 24 moradias",
+    "url": "https://postal.pt/algarve/marina-de-albufeira-vai-receber-novo-empreendimento-residencial-com-24-moradias/",
+    "published": "2026-11-27T07:45Z",
+    "date": "2026-11-27",
+    "source": "Postal do Algarve",
+    "source_site": "https://postal.pt/",
+    "feed": "https://postal.pt/?s=Albufeira&feed=rss2",
+    "read_at": "2026-11-28T18:30:23Z",
+    "mentions_place": true
+   },
+   {
+    "title": "Feira Franca regressa a Albufeira este fim de semana após um ano de interrupção",
+    "url": "https://postal.pt/algarve/feira-franca-regressa-a-albufeira-este-fim-de-semana-apos-um-ano-de-interrupcao/",
+    "published": "2026-11-26T18:20Z",
+    "date": "2026-11-26",
+    "source": "Postal do Algarve",
+    "source_site": "https://postal.pt/",
+    "feed": "https://postal.pt/?s=Albufeira&feed=rss2",
+    "read_at": "2026-11-28T18:30:23Z",
+    "mentions_place": true
+   },
+   {
+    "title": "100 Montaditos abre novo restaurante em Albufeira e cria cinco postos de trabalho",
+    "url": "https://postal.pt/algarve/100-montaditos-abre-novo-restaurante-em-albufeira-e-cria-cinco-postos-de-trabalho/",
+    "published": "2026-11-25T10:40Z",
+    "date": "2026-11-25",
+    "source": "Postal do Algarve",
+    "source_site": "https://postal.pt/",
+    "feed": "https://postal.pt/?s=Albufeira&feed=rss2",
+    "read_at": "2026-11-28T18:30:23Z",
+    "mentions_place": true
+   },
+   {
+    "title": "Albufeira acolhe apresentação de sistema de prevenção e resposta a sismos e outras catástrofes",
+    "url": "https://postal.pt/algarve/albufeira-acolhe-apresentacao-de-sistema-de-prevencao-e-resposta-a-sismos-e-outras-catastrofes/",
+    "published": "2026-11-25T07:10Z",
+    "date": "2026-11-25",
+    "source": "Postal do Algarve",
+    "source_site": "https://postal.pt/",
+    "feed": "https://postal.pt/?s=Albufeira&feed=rss2",
+    "read_at": "2026-11-28T18:30:23Z",
+    "mentions_place": true
+   },
+   {
+    "title": "Albufeira assinala o 25 de Novembro pela primeira vez com honras protocolares",
+    "url": "https://postal.pt/algarve/albufeira-assinala-o-25-de-novembro-pela-primeira-vez-com-honras-protocolares/",
+    "published": "2026-11-24T11:40Z",
+    "date": "2026-11-24",
+    "source": "Postal do Algarve",
+    "source_site": "https://postal.pt/",
+    "feed": "https://postal.pt/?s=Albufeira&feed=rss2",
+    "read_at": "2026-11-28T18:30:23Z",
+    "mentions_place": true
+   },
+   {
+    "title": "GNR detém em Albufeira suspeito de furtos no Algarve e Alentejo",
+    "url": "https://www.barlavento.pt/gnr-detencao-albufeira-furto-qualificado/",
+    "published": "2026-11-23T14:17Z",
+    "date": "2026-11-23",
+    "source": "Barlavento",
+    "source_site": "https://www.barlavento.pt/",
+    "feed": "https://www.barlavento.pt/?s=Albufeira&feed=rss2",
+    "read_at": "2026-11-28T18:30:17Z",
+    "mentions_place": true
+   },
+   {
+    "title": "António Nóbrega apresenta projeto em Albufeira para reforçar a prevenção de sismos e salvar vidas",
+    "url": "https://postal.pt/edicaopapel/antonio-nobrega-apresenta-projeto-em-albufeira-para-reforcar-a-prevencao-de-sismos-e-salvar-vidas/",
+    "published": "2026-11-22T11:00Z",
+    "date": "2026-11-22",
+    "source": "Postal do Algarve",
+    "source_site": "https://postal.pt/",
+    "feed": "https://postal.pt/?s=Albufeira&feed=rss2",
+    "read_at": "2026-11-28T18:30:23Z",
+    "mentions_place": true
+   },
+   {
+    "title": "Luna Silva quer criar Assembleia Municipal da Juventude em Albufeira",
+    "url": "https://postal.pt/edicaopapel/luna-silva-quer-criar-assembleia-municipal-da-juventude-em-albufeira/",
+    "published": "2026-11-21T17:30Z",
+    "date": "2026-11-21",
+    "source": "Postal do Algarve",
+    "source_site": "https://postal.pt/",
+    "feed": "https://postal.pt/?s=Albufeira&feed=rss2",
+    "read_at": "2026-11-28T18:30:23Z",
+    "mentions_place": true
+   },
+   {
+    "title": "Albufeira apresenta projeto inovador de prevenção de sismos e catástrofes",
+    "url": "https://postal.pt/edicaopapel/albufeira-apresenta-projeto-inovador-de-prevencao-de-sismos-e-catastrofes/",
+    "published": "2026-11-21T10:00Z",
+    "date": "2026-11-21",
+    "source": "Postal do Algarve",
+    "source_site": "https://postal.pt/",
+    "feed": "https://postal.pt/?s=Albufeira&feed=rss2",
+    "read_at": "2026-11-28T18:30:23Z",
+    "mentions_place": true
+   },
+   {
+    "title": "Assalto à mão armada em agência do Novo Banco em Albufeira está a ser investigado pela PJ",
+    "url": "https://postal.pt/algarve/assalto-a-mao-armada-em-agencia-do-novo-banco-em-albufeira-esta-a-ser-investigado-pela-pj/",
+    "published": "2026-11-20T17:30Z",
+    "date": "2026-11-20",
+    "source": "Postal do Algarve",
+    "source_site": "https://postal.pt/",
+    "feed": "https://postal.pt/?s=Albufeira&feed=rss2",
+    "read_at": "2026-11-28T18:30:23Z",
+    "mentions_place": true
+   }
+  ]
  }
 }
