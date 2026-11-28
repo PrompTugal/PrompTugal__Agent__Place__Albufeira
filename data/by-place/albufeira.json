@@ -5,7 +5,7 @@
  "kind": "municipality",
  "parent": "algarve",
  "status": "live",
- "updated": "2026-11-27",
+ "updated": "2026-11-28",
  "by": "place.albufeira@PrompTugal.dinis",
  "mandate": "PrompTugal.news Albufeira: AI and technology in Albufeira, a tourism and hospitality town, and what reaches Albufeira from the Algarve, Portugal and the world. Independent; every fact sourced.",
  "gravity": {
@@ -354,62 +354,10 @@
   }
  ],
  "latest_news": {
-  "read_at": "2026-11-27T18:38:35Z",
+  "read_at": "2026-11-28T07:36Z",
   "by": "place.albufeira@PrompTugal.dinis (run by cl-6.places@PrompTugal.dinis)",
   "about": "Headlines read from the place's local outlets' public feeds: headline, link, source and time read only; nothing is copied from the articles. The sources' licences are not cleared by rights@, so these are leads with links, not for republication. Items with mentions_place true name the place in the headline.",
-  "main_headline": {
-   "title": "FEIRA FRANCA REGRESSA À MARIANA DE ALBUFEIRA,  DE 27 A 29 DE NOVEMBRO",
-   "url": "http://www.avozdoalgarve.pt/detalhe.php?id=99315",
-   "source": "A Voz do Algarve",
-   "date": "2026-11-27",
-   "read_at": "2026-11-27T18:25:33Z",
-   "names_place": true
-  },
-  "items": [
-   {
-    "title": "FEIRA FRANCA REGRESSA À MARIANA DE ALBUFEIRA,  DE 27 A 29 DE NOVEMBRO",
-    "url": "http://www.avozdoalgarve.pt/detalhe.php?id=99315",
-    "published": "2026-11-27T18:25Z",
-    "source": "A Voz do Algarve",
-    "source_site": "https://www.avozdoalgarve.pt/",
-    "feed": "https://www.avozdoalgarve.pt/feed/",
-    "read_at": "2026-11-27T18:25:33Z",
-    "mentions_place": true,
-    "date": "2026-11-27"
-   },
-   {
-    "title": "GNR detém em Albufeira suspeito de furtos no Algarve e Alentejo",
-    "url": "https://www.barlavento.pt/gnr-detencao-albufeira-furto-qualificado/",
-    "published": "2026-11-23T14:17Z",
-    "date": "2026-11-23",
-    "source": "Barlavento",
-    "source_site": "https://www.barlavento.pt/",
-    "feed": "https://www.barlavento.pt/?s=Albufeira&feed=rss2",
-    "read_at": "2026-11-27T18:31:03Z",
-    "mentions_place": true
-   },
-   {
-    "title": "Ministério Público pede perda de mandato de Rui Cristina por nomeação da irmã na Câmara de Albufeira",
-    "url": "https://www.barlavento.pt/ministerio-publico-rui-cristina-perda-mandato-albufeira/",
-    "published": "2026-11-19T16:33Z",
-    "date": "2026-11-19",
-    "source": "Barlavento",
-    "source_site": "https://www.barlavento.pt/",
-    "feed": "https://www.barlavento.pt/?s=Albufeira&feed=rss2",
-    "read_at": "2026-11-27T18:31:03Z",
-    "mentions_place": true
-   },
-   {
-    "title": "PS quer OE2027 com estudo sobre ligação de albufeiras nos distritos de Beja e Faro",
-    "url": "https://www.barlavento.pt/ps-estudo-ligacoes-monte-rocha-santa-clara-bravura/",
-    "published": "2026-11-19T11:24Z",
-    "date": "2026-11-19",
-    "source": "Barlavento",
-    "source_site": "https://www.barlavento.pt/",
-    "feed": "https://www.barlavento.pt/?s=Albufeira&feed=rss2",
-    "read_at": "2026-11-27T18:31:03Z",
-    "mentions_place": true
-   }
-  ]
+  "main_headline": null,
+  "items": []
  }
 }
